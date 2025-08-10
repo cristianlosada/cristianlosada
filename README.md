@@ -32,6 +32,42 @@ Desarrollador **Backend** con +4 años construyendo **APIs robustas**, automatiz
 
 ---
 
+## 📌 Proyectos fijados
+- **SecureDocSign** — Firmado y autenticación de PDFs con trazabilidad.  
+  👉 https://github.com/cristianlosada/SecureDocSign
+- **verifyMail** — Verificador de emails con múltiples proveedores y eventos.  
+  👉 https://github.com/cristianlosada/verifyMail
+- **Gestor_cuentas_bancarias_API-REST** — API REST para cuentas de ahorro (Flask).  
+  👉 https://github.com/cristianlosada/Gestor_cuentas_bancarias_API-REST
+- **portfolio_crissoft** — Mi portafolio en GitHub Pages.  
+  👉 https://github.com/cristianlosada/portfolio_crissoft
+- **juego-de-la-vida** — Implementación en Python del Game of Life.  
+  👉 https://github.com/cristianlosada/juego-de-la-vida
+
+---
+
+## 🧠 Conocimientos
+<div align="center">
+  
+<!-- Devicons: https://devicon.dev/ -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="38" alt="PHP" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="38" alt="Laravel" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="38" alt="Python" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="38" alt="Flask" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="38" alt="FastAPI" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="38" alt="Node.js" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="38" alt="MySQL" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="38" alt="PostgreSQL" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="38" alt="AWS" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="38" alt="Docker" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="38" alt="Redis" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" height="38" alt="RabbitMQ" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="38" alt="Git" />
+
+</div>
+
+---
+
 ## 🏗️ Proyectos destacados
 - **Gestión de correos masivos** — Sistema distribuido con **Laravel** + **AWS (SES/SNS/S3)** para envío masivo con trazabilidad y eventos asíncronos.  
 - **Sistema agrícola de análisis de suelos** — Herramienta web para identificar propiedades físico-químicas del suelo (proyecto universitario).  
