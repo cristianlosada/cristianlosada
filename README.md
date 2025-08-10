@@ -88,5 +88,3 @@ Desarrollador **Backend** con +4 años construyendo **APIs robustas**, automatiz
 - **Portafolio:** https://cristianlosada.github.io/portfolio_crissoft/  
 - **Email:** cristianlosano314@gmail.com  
 - **LinkedIn:** /in/cristian-alejandro-lozada-reyes-6ab093162/
-
-> Si quieres, puedo añadir sección de **“Proyectos fijados”** con links directos a tus repos clave (p. ej., SecureDocSign, verifyMail, etc.), o una sección “Conocimientos” con íconos tipo devicon.
